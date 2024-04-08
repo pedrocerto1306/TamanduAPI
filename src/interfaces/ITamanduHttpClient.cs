@@ -1,3 +1,4 @@
+using System.Reflection.Metadata;
 using TamanduAPI.Http.Enums;
 using TamanduAPI.Http.Models;
 
@@ -38,5 +39,6 @@ public interface ITamanduHttpClient
     public Task<HttpResponse> PutAsync<T>(string uri, T entirePackage, Dictionary<string, string>? header = null);
     public HttpResponse Patch<T>(string uri, T partialPackage, Dictionary<string, string>? header = null);
     public Task<HttpResponse> PatchAsync<T>(string uri, T partialPackage, Dictionary<string, string>? header = null);
-
+    public HttpResponse Delete(string uri, string queryString, Dictionary<string, string>? header = null);
+    public Task<HttpResponse> DeleteAsync(string uri, string queryString, Dictionary<string, string>? header = null);
 }

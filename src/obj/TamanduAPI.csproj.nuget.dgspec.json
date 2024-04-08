@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/TamanduAPI.csproj": {}
+    "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/src/TamanduAPI.csproj": {}
   },
   "projects": {
-    "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/TamanduAPI.csproj": {
+    "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/src/TamanduAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/TamanduAPI.csproj",
+        "projectUniqueName": "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/src/TamanduAPI.csproj",
         "projectName": "TamanduAPI",
-        "projectPath": "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/TamanduAPI.csproj",
+        "projectPath": "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/src/TamanduAPI.csproj",
         "packagesPath": "/home/pedro/.nuget/packages/",
-        "outputPath": "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/obj/",
+        "outputPath": "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/src/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pedro/.nuget/NuGet/NuGet.Config"

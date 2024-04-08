@@ -15,6 +15,21 @@ public class HttpResponse
         }
     }
     private HttpStatusCode _statusCode;
-    private Dictionary<string,string>? Headers { get; }
-    private string? Body { get; }
+    public Dictionary<string,string>? Headers 
+    { 
+        get => _headers;
+        set => _headers = value;   
+    }
+    private Dictionary<string, string>? _headers;
+    public string? Body 
+    {
+        get => _body;
+        set
+        {
+            if(value?.Length < 2)
+                throw new ArgumentException("Body must have, at least 2 characters \"{\" and \"}\"");
+            _body = value;
+        }
+    }
+    private string? _body;
 }

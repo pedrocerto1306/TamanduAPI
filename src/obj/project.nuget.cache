@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VG5xMEWWaL0pZH0PCaompDaNpyniT80FPBQ6zA9KLjwMkq8FvYhNYUMP4WLh5mnwcZuPmtLvRVTwup3tWj+5xw==",
+  "dgSpecHash": "aDR2doNY8E9OQqBXDGNaDPnjXoKFjEQFek3a0CTFusUv1hk3NPEHi1ApUGyqlyZtX3ez5+wvEr0K5+mf4gpRZQ==",
   "success": true,
-  "projectFilePath": "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/TamanduAPI.csproj",
+  "projectFilePath": "/home/pedro/Documents/UFABC/Engenharia de Software/API HTTP/TamanduAPI/src/TamanduAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

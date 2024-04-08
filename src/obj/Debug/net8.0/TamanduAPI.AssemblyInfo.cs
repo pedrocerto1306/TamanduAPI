@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TamanduAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55eb07dce88013f155f0645a38472c79a479bc35")]
 [assembly: System.Reflection.AssemblyProductAttribute("TamanduAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TamanduAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
